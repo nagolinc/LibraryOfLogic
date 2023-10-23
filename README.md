@@ -37,7 +37,7 @@ Here is the next step
 
 Here is a list of problems that hypothetically would fit well in the library of logic
 - Playing Chess [ ]
-- Solving Sudoku [ ]
+- Solving Sudoku [x]
 - Solving a Maze [ ]
 - Planning a Multi-Stop Trip [ ]
 - Tower of Hanoi [ ]
