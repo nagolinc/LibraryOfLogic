@@ -20,6 +20,7 @@ Each example in the library of logic contains 3 things:
 
 The goal of this library is ultimately to be able to produce a dataset of the following form:
 
+```
 User
 Please solve this problem:
 { rules and format}
@@ -33,70 +34,71 @@ Assistant:
 Here is the next step
 {output of the next step of the computer program}
 ...
+```
 
 
 Here is a list of problems that hypothetically would fit well in the library of logic
-- Playing Chess [ ]
-- Solving Sudoku [x]
-- Solving a Maze [ ]
-- Planning a Multi-Stop Trip [ ]
-- Tower of Hanoi [ ]
-- Eight Queens Puzzle [ ]
-- N-Queens Problem [ ]
-- Solving Crossword Puzzles [ ]
-- Peg Solitaire [ ]
-- Playing Checkers [ ]
-- Tic-Tac-Toe [ ]
-- Minesweeper [ ]
-- Playing Connect-4 [ ]
-- Magic Square [ ]
-- Knights Tour [ ]
-- Rat in a Maze [ ]
-- Word Search [ ]
-- Coin Change Problem [ ]
-- Sum of Subsets [ ]
-- Playing Mastermind [ ]
-- Travelling Salesman Problem [ ]
-- Playing Reversi [ ]
-- Sorting a Hand of Playing Cards [ ]
-- Marble Solitaire [ ]
-- Chinese Checkers [ ]
-- Chutes and Ladders [ ]
-- Balderdash [ ]
-- Jigsaw Puzzle Solving [ ]
-- Cryptarithmetic Puzzles [ ]
-- Palindromes Detection [ ]
-- Determining Leap Years [ ]
-- Counting Number of Islands [ ]
-- Coloring a Map [ ]
-- Playing Cribbage [ ]
-- Finding Prime Numbers [ ]
-- Bingo Game [ ]
-- Nim Game [ ]
-- Playing Spades [ ]
-- Hidden Picture Puzzle [ ]
-- Counting Money Change [ ]
-- Matching Brackets [ ]
-- Solving Paint-by-Numbers [ ]
-- Solving Kakuro [ ]
-- Finding Waldo [ ]
-- Playing Pinochle [ ]
-- Finding Eulerian Path [ ]
-- Playing Whist [ ]
-- Playing Old Maid [ ]
-- Solving Word Ladder Puzzles [ ]
-- Playing Rummy [ ]
-- Solving Futoshiki [ ]
-- Playing Hearts [ ]
-- Making a Rhyme [ ]
-- Playing Bridge [ ]
-- Playing Crazy Eights [ ]
-- Identifying Palindrome Sentences [ ]
-- Calculating Area of Irregular Shapes [ ]
-- Identifying Anagrams [ ]
-- Solving Nonograms [ ]
-- Detecting Cycle in a Directed Graph [ ]
-- Playing Uno [ ]
-- Playing Snap [ ]
-- Calculating Tips [ ]
-- 1D Cellular Automata [x]
+- [ ] Playing Chess
+- [x] Solving Sudoku
+- [ ] Solving a Maze
+- [ ] Planning a Multi-Stop Trip
+- [ ] Tower of Hanoi
+- [ ] Eight Queens Puzzle
+- [ ] N-Queens Problem
+- [ ] Solving Crossword Puzzles
+- [ ] Peg Solitaire
+- [ ] Playing Checkers
+- [ ] Tic-Tac-Toe
+- [ ] Minesweeper
+- [ ] Playing Connect-4
+- [ ] Magic Square
+- [ ] Knights Tour
+- [ ] Rat in a Maze
+- [ ] Word Search
+- [ ] Coin Change Problem
+- [ ] Sum of Subsets
+- [ ] Playing Mastermind
+- [ ] Travelling Salesman Problem
+- [ ] Playing Reversi
+- [ ] Sorting a Hand of Playing Cards
+- [ ] Marble Solitaire
+- [ ] Chinese Checkers
+- [ ] Chutes and Ladders
+- [ ] Balderdash
+- [ ] Jigsaw Puzzle Solving
+- [ ] Cryptarithmetic Puzzles
+- [ ] Palindromes Detection
+- [ ] Determining Leap Years
+- [ ] Counting Number of Islands
+- [ ] Coloring a Map
+- [ ] Playing Cribbage
+- [ ] Finding Prime Numbers
+- [ ] Bingo Game
+- [ ] Nim Game
+- [ ] Playing Spades
+- [ ] Hidden Picture Puzzle
+- [ ] Counting Money Change
+- [ ] Matching Brackets
+- [ ] Solving Paint-by-Numbers
+- [ ] Solving Kakuro
+- [ ] Finding Waldo
+- [ ] Playing Pinochle
+- [ ] Finding Eulerian Path
+- [ ] Playing Whist
+- [ ] Playing Old Maid
+- [ ] Solving Word Ladder Puzzles
+- [ ] Playing Rummy
+- [ ] Solving Futoshiki
+- [ ] Playing Hearts
+- [ ] Making a Rhyme
+- [ ] Playing Bridge
+- [ ] Playing Crazy Eights
+- [ ] Identifying Palindrome Sentences
+- [ ] Calculating Area of Irregular Shapes
+- [ ] Identifying Anagrams
+- [ ] Solving Nonograms
+- [ ] Detecting Cycle in a Directed Graph
+- [ ] Playing Uno
+- [ ] Playing Snap
+- [ ] Calculating Tips
+- [x] 1D Cellular Automata
