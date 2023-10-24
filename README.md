@@ -99,3 +99,4 @@ Here is a list of problems that hypothetically would fit well in the library of 
 - Playing Uno [ ]
 - Playing Snap [ ]
 - Calculating Tips [ ]
+- 1D Cellular Automata [x]
