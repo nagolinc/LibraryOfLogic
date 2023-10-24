@@ -102,3 +102,6 @@ Here is a list of problems that hypothetically would fit well in the library of 
 - [ ] Playing Snap
 - [ ] Calculating Tips
 - [x] 1D Cellular Automata
+- [ ] Long multiplication
+- [ ] Long Division
+- [ ] Long Polynomial Division
