@@ -105,6 +105,6 @@ Here is a list of problems that hypothetically would fit well in the library of 
 - [ ] Long multiplication
 - [ ] Long Division
 - [ ] Long Polynomial Division
-- [ ] parity (compute the parity of a a binary sequence of artibtary lenght)
-- [ ] copy (copy a sequence, repeating each symbol k times)
+- [x] parity (compute the parity of a a binary sequence of artibtary lenght)
+- [x] copy (copy a sequence, repeating each symbol k times)
 - [ ] addition (arbitrary length)

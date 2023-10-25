@@ -18,7 +18,7 @@ class LibraryOfLogicBaseClass(ABC):
     def getNextStep(self, problem):
         pass
 
-    def generateConversation(self, num_steps=10,please="Please solve this problem:", keep_going_phrases=["please keep going", "continue"]):
+    def generateConversation(self, num_steps=10,please="Please solve this problem step by step:", keep_going_phrases=["please keep going", "continue"]):
         # Setup
         print("USER:")
         rules_dict = self.describeRules()
@@ -30,8 +30,8 @@ class LibraryOfLogicBaseClass(ABC):
 
         # First step
         print("ASSISTANT:")
-        print(next_step_dict['pretty_state'])
         print(next_step_dict.get('message', ""))
+        print(next_step_dict['pretty_state'])
         print(next_step_dict['status'])
 
         # Remaining steps
@@ -44,3 +44,5 @@ class LibraryOfLogicBaseClass(ABC):
                 print(next_step_dict['message'])
             print(next_step_dict['pretty_state'])
             step_count += 1
+
+     
