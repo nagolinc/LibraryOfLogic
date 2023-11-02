@@ -42,7 +42,7 @@ Here is a list of problems that hypothetically would fit well in the library of 
 - [x] Solving Sudoku
 - [ ] Solving a Maze
 - [ ] Planning a Multi-Stop Trip
-- [ ] Tower of Hanoi
+- [x] Tower of Hanoi
 - [ ] Eight Queens Puzzle
 - [ ] N-Queens Problem
 - [ ] Solving Crossword Puzzles

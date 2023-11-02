@@ -45,4 +45,8 @@ class LibraryOfLogicBaseClass(ABC):
             print(next_step_dict['pretty_state'])
             step_count += 1
 
+            #break if status is invalid or finished
+            if next_step_dict['status'] != 'Continue':
+                break
+
      
