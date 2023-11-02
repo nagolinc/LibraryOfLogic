@@ -11,12 +11,12 @@ and [tic tac toe](https://www.reddit.com/r/ChatGPT/comments/11v3rqw/gpt_is_reall
 
 
 Each example in the library of logic contains 3 things:
-1) A short description describing the format of the problem and the rules
-2) A computer program that taking a input in the correct format can  
- a) compute the "next step"
- b) or produce an error if an invalid step has been taken
- c) optionally an explanation of why that step was taken (or invalid)
-3) some example problems, or a problem generation program
+1. A short description describing the format of the problem and the rules
+2. A computer program that taking a input in the correct format can  
+ * compute the "next step"
+ * or produce an error if an invalid step has been taken
+ * optionally an explanation of why that step was taken (or invalid)
+3. some example problems, or a problem generation program
 
 The goal of this library is ultimately to be able to produce a dataset of the following form:
 
@@ -105,7 +105,9 @@ Here is a list of problems that hypothetically would fit well in the library of 
 - [ ] Long multiplication
 - [ ] Long Division
 - [ ] Long Polynomial Division
-- [x] parity (compute the parity of a a binary sequence of artibtary lenght)
+- [x] parity (compute the parity of a a binary sequence of arbitrary length)
 - [x] copy (copy a sequence, repeating each symbol k times)
 - [ ] addition (arbitrary length)
 - [x] balanced parenthesis
+
+
